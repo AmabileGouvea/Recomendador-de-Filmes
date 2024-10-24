@@ -30,7 +30,7 @@ function draw() {
   fill(color(76, 0, 115));
   textAlign(CENTER, CENTER);
   textSize(38);
-  text(recomendacao, width / 2, height / 2);
+  text(recomendacao, width / 2, height / 3);
 }
 
 function geraRecomendacao(idade, gostaDeFantasia, gostaDeAventura) {
